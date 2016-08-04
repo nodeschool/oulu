@@ -12,7 +12,7 @@
 
 | Date   | Topics      |
 |--------|-------------|
-|04/08/2016|TODO|
+|04/08/2016|javascripting, learnyounode|
 
 
 ## Notes
@@ -23,4 +23,5 @@
 - Text editor
 - Terminal app
 - Command-line knowledge
-- Programming knowledge?
+- Programming knowledge
+- JavaScript knowledge
