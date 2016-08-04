@@ -1,0 +1,19 @@
+{
+  "name": "nodeschool-workshops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "README.md",
+  "author": "Thibaud Colas",
+  "license": "MIT",
+  "homepage": "https://github.com/ouluwebdev/nodeschool-workshops#readme",
+  "bugs": {
+    "url": "https://github.com/ouluwebdev/nodeschool-workshops/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouluwebdev/nodeschool-workshops.git"
+  },
+  "scripts": {
+    "test": "for file in javascripting/*; do node \"$file\"; done"
+  }
+}
