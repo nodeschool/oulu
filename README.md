@@ -1,4 +1,4 @@
-[NodeSchool Oulu workshops](http://nodeschool.io/oulu/)
+[NodeSchool Oulu workshops](http://nodeschool.io/oulu/) [![Build Status](https://travis-ci.org/ouluwebdev/nodeschool-workshops.svg?branch=master)](https://travis-ci.org/ouluwebdev/nodeschool-workshops)
 ====================
 
 ## Curriculum
