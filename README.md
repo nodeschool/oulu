@@ -13,3 +13,14 @@
 | Date   | Topics      |
 |--------|-------------|
 |04/08/2016|TODO|
+
+
+## Notes
+
+### Requirements
+
+- Node and npm
+- Text editor
+- Terminal app
+- Command-line knowledge
+- Programming knowledge?
