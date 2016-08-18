@@ -15,8 +15,6 @@
     "url": "git+https://github.com/nodeschool/oulu.git"
   },
   "scripts": {
-    "test:javascripting": "for file in javascripting/*; do node \"$file\"; done",
-    "test:learnyounode": "node learnyounode/hello-world.js && node learnyounode/baby-steps.js 1 2 3 && node learnyounode/my-first-io.js ./package.json && node learnyounode/my-first-async-io.js ./package.json",
-    "test": "npm run test:javascripting -s && npm run test:learnyounode -s"
+    "test": "./solutions/test.sh"
   }
 }
