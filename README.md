@@ -1,4 +1,4 @@
-[NodeSchool Oulu](http://nodeschool.io/oulu/) [![Build Status](https://travis-ci.org/nodeschool/oulu.svg?branch=master)](https://travis-ci.org/nodeschool/oulu)
+[NodeSchool Oulu](http://nodeschool.io/oulu/) :school::cop: [![Slack Status](https://ouluwebdevslackin.herokuapp.com/badge.svg)](https://ouluwebdevslackin.herokuapp.com) [![Build Status](https://travis-ci.org/nodeschool/oulu.svg?branch=master)](https://travis-ci.org/nodeschool/oulu)
 ====================
 
 ## Curriculum
