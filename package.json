@@ -9,7 +9,7 @@
   "main": "README.md",
   "author": "Thibaud Colas <thib@thib.me> (https://github.com/ThibWeb)",
   "license": "MIT",
-  "homepage": "http://nodeschool.io/oulu/",
+  "homepage": "https://ouluwebdev.github.io/nodeschool/",
   "bugs": {
     "url": "https://github.com/nodeschool/oulu/issues"
   },
@@ -18,10 +18,13 @@
     "url": "git+https://github.com/nodeschool/oulu.git"
   },
   "devDependencies": {
-    "browser-sync": "^2.14.0"
+    "browser-sync": "^2.14.0",
+    "hyperlink": "^2.3.0"
   },
   "scripts": {
     "start": "browser-sync start --server src/ --files src/",
-    "test": "./solutions/test.sh"
+    "test": "npm run test:site -s && npm run test:solutions -s",
+    "test:site": "hyperlink index.html",
+    "test:solutions": "./solutions/test.sh"
   }
 }
