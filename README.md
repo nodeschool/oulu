@@ -25,3 +25,7 @@
 - Command-line knowledge
 - Programming knowledge
 - JavaScript knowledge
+
+### Links
+
+https://github.com/nodeschool/organizers/wiki/Event-Mentor-Best-Practices#on-being-a-mentor
