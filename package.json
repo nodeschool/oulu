@@ -22,7 +22,7 @@
     "hyperlink": "^2.3.0"
   },
   "scripts": {
-    "start": "browser-sync start --server src/ --files src/",
+    "start": "browser-sync start --server . --files index.html",
     "test": "npm run test:site -s && npm run test:solutions -s",
     "test:site": "hyperlink index.html",
     "test:solutions": "./solutions/test.sh"
