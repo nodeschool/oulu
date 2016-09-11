@@ -1,4 +1,4 @@
-[NodeSchool Oulu](http://nodeschool.io/oulu/) :school::cop: [![Slack](https://img.shields.io/badge/slack-%20ouluwebdev-orange.svg)](https://ouluwebdevslackin.herokuapp.com) [![Build Status](https://travis-ci.org/nodeschool/oulu.svg?branch=master)](https://travis-ci.org/nodeschool/oulu) [<img src="media/logo.svg" width="128" align="right" alt="Wagtail">](http://nodeschool.io/oulu/)
+[NodeSchool Oulu](http://nodeschool.io/oulu/) :school::cop: [![Slack](https://img.shields.io/badge/slack-%20ouluwebdev-orange.svg)](https://ouluwebdevslackin.herokuapp.com) [![Build Status](https://travis-ci.org/nodeschool/oulu.svg?branch=master)](https://travis-ci.org/nodeschool/oulu) [<img src="https://rawgit.com/nodeschool/oulu/master/media/logo.svg" width="128" align="right" alt="">](http://nodeschool.io/oulu/)
 ====================
 
 Welcome to the NodeSchool Oulu chapter's repository. We use this
