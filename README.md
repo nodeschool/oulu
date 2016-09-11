@@ -18,6 +18,15 @@ Here are the workshoppers we have been through during past events.
 |[`javascripting`](https://github.com/sethvincent/javascripting)|Learn the basics of JavaScript. No previous programming experience required.|
 |[`learnyounode`](https://github.com/workshopper/learnyounode)|Learn the basics of node: asynchronous i/o, http.|
 
+## Other cool tech things happening in Oulu :sparkles:
+
+- [Oulu Web Development Meetup](https://www.meetup.com/Oulu-Web-Development/)
+- [Rails Girls Oulu](http://railsgirls.com/oulu)
+- [ClojureBridge Oulu](http://www.clojurebridge.org/events/2016-06-03-oulu-finland)
+- [Sideproject Oulu](http://www.sideprojectoulu.org/)
+- [Frontend Friday](http://frontendfriday.fi/)
+- [Ruby Sauna](https://twitter.com/rubysauna)
+
 ## Contributing to the website
 
 The website is just basic HTML, CSS and JavaScript. It runs on [GitHub
