@@ -1,8 +1,11 @@
 language: node_js
 node_js:
-  - 0.12
-  - 4
-  - node
+- 0.12
+- 4
+- node
 script: npm run test
 notifications:
-    email: false
+  email: false
+  slack:
+    rooms:
+      secure: ub8RpU8krOGpXbMAS3/8cIljNGSOM8E/Oo8aP18UHIsBLMjqPLtsqXyOoy8IOkEi+eT7/g4XnczQmfQbD1XkU683CiQ1skUatFUa4DDeVvllnmO9qE8YgRFH5OxpNsmESHtqDiiWQ1k4RLucydSPFBcsSqHCzSBOy6q+QfiDxxKIThAchqQp8s71LnWyRdzdNqHDj88nDiJ4cxyHB4e2F4r/yTe0wz10yLdWhQCieJ1fcNkvkKmvuD+d43Hcy/B8wv+Fd3p/gv9rMe5qQu9r0TjMVeIBeQjNMIpOIplsa2uSjCO5tOMbLfE0y5VAMQA/r6E8XpYOy+GtSCsLmOYEMDilaSis/75Eim1/NTasUAUkgey65K72UuXK/nScLgWY+59n/CWwF8duWe43aGu/bPP2Fc3FZyJ9f5pS99nM2vS5FJ8ggH9/EYD5HrWDNFXtco7wzNnfArWSIlpznvOksq4bPZaCARzV/odOP6xXe+JGhwN/I0L2vcJK6Iauy9MzYQsTKYjXm9no2a2YZyIC/Q991N9AlMGHpXleyUcVb0hlbPhZInknXb0feBXXyrLSBbPy8lD9dEyBBagit1rAlKsIsDNdT2nGlxto95YvWzy8o4sOh/82SLwPrA4fORutNDu83diD92xz6UICEjqCZp0erYURguVr8pgZjyBkVjk=
