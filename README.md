@@ -1,4 +1,4 @@
-[NodeSchool Oulu](http://nodeschool.io/oulu/) :school::cop: [![Slack Status](https://ouluwebdevslackin.herokuapp.com/badge.svg)](https://ouluwebdevslackin.herokuapp.com) [![Build Status](https://travis-ci.org/nodeschool/oulu.svg?branch=master)](https://travis-ci.org/nodeschool/oulu) [<img src="media/logo.svg" width="128" align="right" alt="Wagtail">](http://nodeschool.io/oulu/)
+[NodeSchool Oulu](http://nodeschool.io/oulu/) :school::cop: [![Slack](https://img.shields.io/badge/slack-%20ouluwebdev-orange.svg)](https://ouluwebdevslackin.herokuapp.com) [![Build Status](https://travis-ci.org/nodeschool/oulu.svg?branch=master)](https://travis-ci.org/nodeschool/oulu) [<img src="media/logo.svg" width="128" align="right" alt="Wagtail">](http://nodeschool.io/oulu/)
 ====================
 
 Welcome to the NodeSchool Oulu chapter's repository. We use this
@@ -6,6 +6,8 @@ repository for our website and almost all our communication.
 
 - [Check out our next events on Meetup.com](https://www.meetup.com/Oulu-Web-Development/)
 - [Website](http://nodeschool.io/oulu/)
+- [Slack team](https://ouluwebdevslackin.herokuapp.com) – come chat with us!
+- [Code of conduct](CODE_OF_CONDUCT.md)
 
 ## Featured workshoppers
 
