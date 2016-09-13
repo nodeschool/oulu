@@ -17,6 +17,7 @@ Here are the workshoppers we have been through during past events.
 |--------|-------------|
 |[`javascripting`](https://github.com/sethvincent/javascripting)|Learn the basics of JavaScript. No previous programming experience required.|
 |[`learnyounode`](https://github.com/workshopper/learnyounode)|Learn the basics of node: asynchronous i/o, http.|
+|[`elementary-electron`](https://github.com/maxogden/elementary-electron)|NodeSchool workshop for learning Electron.|
 
 ## Other cool tech things happening in Oulu :sparkles:
 
