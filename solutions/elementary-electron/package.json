@@ -1,0 +1,16 @@
+{
+  "name": "elementary-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thibaud Colas <thibaudcolas@gmail.com> (https://github.com/thibaudcolas)",
+  "license": "ISC",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "0.0.10"
+  }
+}
